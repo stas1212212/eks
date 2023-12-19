@@ -1,0 +1,14 @@
+E:\Eks\eks11\bin\Debug\net8.0\eks11.exe
+E:\Eks\eks11\bin\Debug\net8.0\eks11.deps.json
+E:\Eks\eks11\bin\Debug\net8.0\eks11.runtimeconfig.json
+E:\Eks\eks11\bin\Debug\net8.0\eks11.dll
+E:\Eks\eks11\bin\Debug\net8.0\eks11.pdb
+E:\Eks\eks11\obj\Debug\net8.0\eks11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eks\eks11\obj\Debug\net8.0\eks11.AssemblyInfoInputs.cache
+E:\Eks\eks11\obj\Debug\net8.0\eks11.AssemblyInfo.cs
+E:\Eks\eks11\obj\Debug\net8.0\eks11.csproj.CoreCompileInputs.cache
+E:\Eks\eks11\obj\Debug\net8.0\eks11.dll
+E:\Eks\eks11\obj\Debug\net8.0\refint\eks11.dll
+E:\Eks\eks11\obj\Debug\net8.0\eks11.pdb
+E:\Eks\eks11\obj\Debug\net8.0\eks11.genruntimeconfig.cache
+E:\Eks\eks11\obj\Debug\net8.0\ref\eks11.dll
